@@ -6,7 +6,7 @@
 
 3. Handled permissions and authentications using BasePermission
 
-4. Made the UI of navigating through the APIs more user friendly by hyperlinking the urls (also created a url field on each object)
+4. Made the UI of navigating through the APIs more user friendly by hyperlinking the urls
 
 5. Made the code more concise using Router and Viewset classes. 
 
